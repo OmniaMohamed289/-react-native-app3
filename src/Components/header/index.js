@@ -22,9 +22,8 @@ const styles = StyleSheet.create({
     borderRadius: 30,
     overflow: 'hidden',
     marginHorizontal: 20,
-    marginTop: 10,
     height: 200,
-    marginTop:80
+    marginTop:30
   },
   containerHeader: {
     flex: 1,
